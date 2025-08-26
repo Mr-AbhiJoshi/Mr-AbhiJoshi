@@ -7,24 +7,24 @@
 ---
 
 ## 🔹 About Me  
-- 🌟 Skilled in **Python, Django, Flask, and web application development**.  
+- 🌟 Skilled in **Python, JavaScript, Django, and web application development**.  
 - 🤖 Hands-on experience with **AI/Automation platforms** such as *n8n, Make.com, RetellAI, Relevance AI, and Voiceflow*.  
-- 🔧 Built projects ranging from **e-commerce apps and book review platforms** to **AI-powered automation workflows and voice agents**.  
+- 🔧 Built projects ranging from **e-commerce apps and mental health platforms** to **AI-powered automation workflows and voice agents**.  
 - 📚 Currently pursuing **AWS Certified AI Practitioner (AIF-C01)** and expanding my expertise in **Generative AI & Cloud**.  
 - 💡 Strong believer in **continuous learning, adaptability, and collaboration**.  
 
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages & Frameworks:** Python, JavaScript, Django, Flask, Bootstrap, Tailwind CSS, React (learning)  
+- **Languages & Frameworks:** Python, JavaScript, Django, Flask, Bootstrap, Tailwind CSS  
 - **Web Development:** HTML5, CSS3  
-- **Databases:** MySQL, PostgreSQL, SQLite  
+- **Databases:** MySQL, SQLite, Supabase  
 - **AI & Automation Tools:** n8n, Make.com, RetellAI, Relevance AI, Voiceflow, LLMs (OpenAI GPT, Gemini, Copilot)  
 - **Collaboration & Tools:** Git, GitHub, VS Code  
 
 ---
 
-## 📌 Featured Projects  
+## 📌 Projects I have worked on  
 🔹 [**GoodGrocer**](https://github.com/Mr-AbhiJoshi/GoodGrocer) – A scalable e-commerce app connecting farmers/artisans with consumers (Django, MySQL).  
 🔹 [**MindWave**](https://github.com/Mr-AbhiJoshi/MindWave) – Mental health support platform with self-assessments and resources (Django).  
 🔹 [**BookNest**](https://github.com/Mr-AbhiJoshi/BookNest) – Book review & recommendation platform with personalised journeys (Flask, Tailwind).  
