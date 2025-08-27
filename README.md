@@ -28,7 +28,7 @@
 🔹 [**GoodGrocer**](https://github.com/Mr-AbhiJoshi/GoodGrocer) – A scalable e-commerce app connecting farmers/artisans with consumers (Django, MySQL).  
 🔹 [**MindWave**](https://github.com/Mr-AbhiJoshi/MindWave) – Mental health support platform with self-assessments and resources (Django).  
 🔹 [**BookNest**](https://github.com/Mr-AbhiJoshi/BookNest) – Book review & recommendation platform with personalised journeys (Flask, Tailwind).  
-🔹 [**Weekly Scope & Lesson Planner**](www.education.limesdigital.com) – Automated platform for teachers to generate Scope & Sequence documents & Lesson Plans using n8n workflows.  
+🔹 **Weekly Scope & Lesson Planner** – Automated platform for teachers to generate Scope & Sequence documents & Lesson Plans using n8n workflows. Access it at:www.education.limesdigital.com  
 🔹 **Voice Agent Prototypes** – AI-powered voice assistants for a dental practice (booking/rescheduling integrated with Google Calendar) and an interior designer (customer engagement).  
 
 ---
