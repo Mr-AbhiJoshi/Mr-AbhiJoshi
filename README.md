@@ -29,13 +29,14 @@
 🔹 [**MindWave**](https://github.com/Mr-AbhiJoshi/MindWave) - Mental health support platform with self-assessments and resources (Django).  
 🔹 [**BookNest**](https://github.com/Mr-AbhiJoshi/BookNest) - Book review & recommendation platform with personalised journeys (Flask, Tailwind).  
 🔹 **Weekly Scope & Lesson Planner** - Automated platform for teachers to generate Scope & Sequence documents & Lesson Plans using n8n workflows. Access it at: www.education.limesdigital.com  
+🔹 **Website Wireframes** - Designed fully functioning website wireframes on lovable.dev using Prompt Engineering, backed up by Supabase.  
 🔹 **Voice Agent Prototypes** - AI-powered voice assistants for a dental practice (booking/rescheduling integrated with Google Calendar) and an interior designer (customer engagement).  
 
 ---
 
 ## 📫 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mr-abhijoshi)  
-- 🌐 [Portfolio Website](https://mr-abhijoshi.github.io)  
+- 🌐 [My Portfolio Website](https://mr-abhijoshi.github.io)  
 - 📧 Email: abhijoshi1441@gmail.com  
 
 ---
